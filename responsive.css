@@ -1,0 +1,49 @@
+@media screen and (max-width: 600px){
+   .banner{
+    width: 960PX;
+   }
+   .input-div{
+    padding-left: 250px;
+   }
+   .popular-section{
+    width: 960px;
+   }
+   .row{
+    flex-direction: column;
+    width: 1800px;
+    margin: left 40px;
+   }
+   .card-1{
+    flex-direction: column;
+    padding:60px;
+   }
+   .card-2{
+    margin-left:106px;
+    padding:60px;
+   }
+   .card-3{
+    width: 535px;
+    height: 165px;
+    padding:95px;
+    margin-left:100px;
+   }
+   .choose-section p{
+    margin-left:100px;
+   }
+   .primary-title{
+    margin-left:200px
+   }
+   .newsletter-content{
+    flex-direction: column;
+    margin-left: 100px;
+    width: 700px 
+   }
+   .img-div{
+    margin-left: 100px;
+    width:700px;
+   }
+   .footer-div{
+    width: 700px;
+    margin-left:100px;
+   }
+}
